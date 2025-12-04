@@ -1,0 +1,67 @@
+{
+  "custom_models": [
+    {
+      "model_display_name": "Gemini 3 Pro Preview [Gemini CLI]",
+      "model": "gemini-3-pro-preview",
+      "base_url": "http://localhost:8317/v1",
+      "api_key": "sk-dummy",
+      "provider": "openai"
+    },
+    {
+      "model_display_name": "GPT-5.1 Codex Max [Codex CLI]",
+      "model": "gpt-5.1-codex-max",
+      "base_url": "http://localhost:8317/v1",
+      "api_key": "sk-dummy",
+      "provider": "openai"
+    },
+    {
+      "model_display_name": "Qwen3 Coder Plus [Qwen Code]",
+      "model": "qwen3-coder-plus",
+      "base_url": "http://localhost:8317/v1",
+      "api_key": "sk-dummy",
+      "provider": "openai"
+    },
+    {
+      "model_display_name": "GLM 4.6 [Iflow]",
+      "model": "glm-4.6",
+      "base_url": "http://localhost:8317/v1",
+      "api_key": "sk-dummy",
+      "provider": "openai"
+    },
+    {
+      "model_display_name": "Minimax M2 [Iflow]",
+      "model": "minimax-m2",
+      "base_url": "http://localhost:8317/v1",
+      "api_key": "sk-dummy",
+      "provider": "openai"
+    },
+    {
+      "model_display_name": "GPT OSS 120B [Antigravity]",
+      "model": "gpt-oss-120b-medium",
+      "base_url": "http://localhost:8317/v1",
+      "api_key": "sk-dummy",
+      "provider": "openai"
+    },
+    {
+      "model_display_name": "Claude Opus 4.5 [Copilot]",
+      "model": "claude-opus-4.5",
+      "base_url": "http://localhost:8317/v1",
+      "api_key": "sk-dummy",
+      "provider": "openai"
+    },
+    {
+      "model_display_name": "GPT-5 Mini [Copilot]",
+      "model": "gpt-5-mini",
+      "base_url": "http://localhost:8317/v1",
+      "api_key": "sk-dummy",
+      "provider": "openai"
+    },
+    {
+      "model_display_name": "Grok Code Fast 1 [Copilot]",
+      "model": "grok-code-fast-1",
+      "base_url": "http://localhost:8317/v1",
+      "api_key": "sk-dummy",
+      "provider": "openai"
+    }
+  ]
+}
