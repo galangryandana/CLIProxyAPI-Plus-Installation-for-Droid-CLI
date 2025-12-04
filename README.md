@@ -1,4 +1,4 @@
-Step-by-step installation (English)
+Step-by-step installation
 
 1) Clone the repository:
 ```
@@ -59,5 +59,7 @@ cliproxyapi-plus --config ~/.cli-proxy-api/config.yaml
 
 
 ## Credits
+```
 https://github.com/router-for-me/CLIProxyAPI
+```
 https://github.com/router-for-me/CLIProxyAPIPlus
