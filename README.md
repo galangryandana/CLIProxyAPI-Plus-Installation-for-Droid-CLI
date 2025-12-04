@@ -44,11 +44,23 @@ EOF
 7) Collect OAuth login data for each provider:
 ```
 cliproxyapi-plus --config ~/.cli-proxy-api/config.yaml --github-copilot-login
+```
+```
 cliproxyapi-plus --config ~/.cli-proxy-api/config.yaml --codex-login
+```
+```
 cliproxyapi-plus --config ~/.cli-proxy-api/config.yaml --antigravity-login
+```
+```
 cliproxyapi-plus --config ~/.cli-proxy-api/config.yaml --claude-login
+```
+```
 cliproxyapi-plus --config ~/.cli-proxy-api/config.yaml --iflow-login
+```
+```
 cliproxyapi-plus --config ~/.cli-proxy-api/config.yaml --login
+```
+```
 cliproxyapi-plus --config ~/.cli-proxy-api/config.yaml --qwen-login
 ```
 
